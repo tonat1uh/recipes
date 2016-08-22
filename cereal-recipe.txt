@@ -1,0 +1,6 @@
+Ingredients:
+	-Cereal
+	-Milk
+
+Directions.
+1.- In a bowl mix cereal with milk.
